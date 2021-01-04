@@ -48,7 +48,7 @@ sections:
 
         content_align: left
         actions:
-          - label: Start with Business
+          - label: 'Purchase '
             url: /features
             style: primary
         actions_align: left
