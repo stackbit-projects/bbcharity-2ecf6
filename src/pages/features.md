@@ -46,7 +46,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
     title: More...
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - title: Section Item 1
         title_align: left
