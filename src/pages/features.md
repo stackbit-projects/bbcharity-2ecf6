@@ -128,12 +128,10 @@ sections:
     title: 'Reviews '
     subtitle: Grid Section Example
     grid_items:
-      - content: >-
+      - content: >+
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
 
-
-          **Eleanor Carr,** *CTO, Studio*
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
