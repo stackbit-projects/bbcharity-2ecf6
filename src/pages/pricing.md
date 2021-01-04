@@ -38,7 +38,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Sponsored Event
+      - title: Ticket Sale Event
         subtitle: ''
         title_align: left
         content: |+
