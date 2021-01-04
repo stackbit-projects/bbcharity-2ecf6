@@ -170,7 +170,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews Section
+    title: Reviews
     subtitle: ''
     grid_items:
       - content: >-
