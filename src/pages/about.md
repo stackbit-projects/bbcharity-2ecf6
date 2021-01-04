@@ -91,7 +91,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Call to Action
+    title: Help Make a Difference
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Support Us
