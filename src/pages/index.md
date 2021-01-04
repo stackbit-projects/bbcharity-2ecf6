@@ -114,7 +114,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Values & Mission Statement
+    title: More information about BB Charity
     subtitle: ''
     grid_items:
       - title: Fill with something
