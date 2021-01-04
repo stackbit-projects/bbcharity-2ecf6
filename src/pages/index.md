@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Leaders in Alternative Educaiotn & Instensive Support Services '
+    title: Leaders in Alternative Education
     subtitle: ''
     content: ''
     actions:
