@@ -25,7 +25,7 @@ sections:
         image_align: center
       - image: images/food.png
         image_align: center
-      - image: images/logo-3.svg
+      - image: images/writing.png
         image_align: center
       - image: images/logo-4.svg
         image_align: center
