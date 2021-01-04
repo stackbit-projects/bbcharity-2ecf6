@@ -201,7 +201,8 @@ sections:
 
           **A dad who thinks BBcahrity is awesome**
 
-        image: images/miles-tone.png
+        image: >-
+          images/stock-vector-male-face-silhouette-or-icon-man-avatar-profile-unknown-or-anonymous-person-vector-illustration-1165858396.jpg
         image_position: left
         image_width: twenty-five
       - content: >-
