@@ -2,19 +2,14 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    title: 'Leaders in Alternative Educaiotn & Instensive Support Services '
+    subtitle: ''
+    content: ''
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/external-content.duckduckgo.com.jpg
     media_position: left
     media_width: fifty
     align: left
@@ -22,26 +17,23 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: Life Long Learning
     subtitle: Grid Section Example
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/life.png
         image_align: center
-      - image: images/logo-2.svg
+      - image: images/food.png
         image_align: center
-      - image: images/logo-3.svg
+      - image: images/writing.png
         image_align: center
-      - image: images/logo-4.svg
+      - image: images/art.png
         image_align: center
-      - image: images/logo-5.svg
+      - image: images/computer.png
         image_align: center
-      - image: images/logo-6.svg
-        image_align: center
-      - image: images/logo-7.svg
-        image_align: center
-      - image: images/logo-8.svg
-        image_align: center
+      - image_align: center
+      - image_align: center
+      - image_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
@@ -49,7 +41,7 @@ sections:
     title: Features Section
     subtitle: Features Section Example
     features:
-      - title: The Big Title For the Feature
+      - title: BB Charity Content
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
@@ -65,7 +57,7 @@ sections:
         image: images/classic/feature-1.png
         media_position: right
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: BB Charity Content!!
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
@@ -80,7 +72,7 @@ sections:
         image: images/classic/feature-2.png
         media_position: left
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: BB Charity Content
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
@@ -246,25 +238,20 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Gustav Purpleson
+      - title: Sarah Gentles
         subtitle: Co-Founder & CEO
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: images/unknown.jpg
         image_position: top
-      - title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - title: Hilary Ouse
+      - title: Ari
         subtitle: Operations Manager
         title_align: center
-        image: images/hilary-ouse.jpg
+        image: images/pleasant-lavender.jpg
+        image_position: top
+      - title: Chris
+        subtitle: Admin
+        title_align: center
+        image: images/spectacular-lettuce.jpg
         image_position: top
     grid_cols: four
     align: center
