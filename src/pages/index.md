@@ -94,7 +94,7 @@ sections:
   - type: features_section
     features:
       - title: “ a great quote can go here”
-        subtitle: A quote from Jade?
+        subtitle: A quote from Jade or a student?
         image: images/parallel-spruce.jpg
         media_position: right
         media_width: thirty-three
