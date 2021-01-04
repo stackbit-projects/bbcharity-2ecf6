@@ -41,18 +41,11 @@ sections:
       - title: Sponsored Event
         subtitle: ''
         title_align: left
-        content: |-
+        content: |
           ---
 
           ### $39
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          ##### Ticket Sale
         content_align: left
         actions:
           - label: Start with Business
