@@ -24,6 +24,7 @@ sections:
       - image: images/life.png
         image_align: center
         title: Healthy Beans
+        title_align: center
       - image: images/food.png
         image_align: center
       - image: images/writing.png
