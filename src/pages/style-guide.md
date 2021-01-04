@@ -3,16 +3,13 @@ title: ''
 template: page
 ---
 
+# Functional & G.C.S.E
+
 This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue.
 
-# This is an H1
-## This is an H2
-### This is an H3
-#### This is an H4
-##### This is an H5
-###### This is an H6
 
-## Quoting
+
+
 
 Nullam hendrerit dictum vehicula. Nunc nec tortor et dui vestibulum venenatis. Donec mattis ligula ac efficitur lacinia.
 
@@ -26,7 +23,7 @@ In non tempus urna, non blandit nisl. Phasellus aliquam, tellus et lobortis dict
 
 Vivamus tempus ornare urna, eget imperdiet quam venenatis ac. Donec fermentum massa id aliquet vulputate. Nam vestibulum ornare est, sed tincidunt mauris interdum a. In hac habitasse platea dictumst. Pellentesque sit amet arcu sed risus vehicula fermentum sit amet a neque. Sed imperdiet lacinia magna sit amet dapibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean non purus a quam placerat luctus. Proin orci risus, lobortis ut dictum at, gravida at nulla. 
 
-## Unordered and Ordered Lists
+
 
 + Donec non tortor in arcu mollis feugiat
 + Lorem ipsum dolor sit amet, consectetuer adipiscing elit
@@ -42,7 +39,7 @@ Vivamus tempus ornare urna, eget imperdiet quam venenatis ac. Donec fermentum ma
 4. Vivamus convallis urna id felis
 5. Nulla porta tempus sapien
 
-## Code Blocks
+
 
 Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
 
@@ -53,23 +50,7 @@ for (let i = 0; i < sequence.length; i++) {
 }
 ```
 
-## Inline Elements
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-Inline `code` with `back-ticks around` it.
-
-This is <mark>marked or highlighted</mark> text.
-
-This is [an example](http://example.com) link.
-
-## Tables
 
 <div class="responsive-table">
   <table>
