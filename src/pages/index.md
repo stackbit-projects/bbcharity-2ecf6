@@ -115,7 +115,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Values & Mission Statement
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - title: Fill with something
         title_align: left
