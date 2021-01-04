@@ -18,7 +18,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Life Long Learning
-    subtitle: Grid Section Example
+    subtitle: ''
     align: center
     grid_items:
       - image: images/life.png
