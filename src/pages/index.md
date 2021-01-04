@@ -37,13 +37,6 @@ sections:
         image_align: center
         title: Arty Beans
         content_align: center
-      - image: images/computer.png
-        image_align: center
-        image_position: top
-        content: ''
-        content_align: center
-        title: Computer Beans
-        title_align: center
       - image_align: center
       - image_align: center
       - image_align: center
