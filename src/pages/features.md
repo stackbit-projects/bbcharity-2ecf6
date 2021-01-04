@@ -151,7 +151,7 @@ sections:
     title: Call to Action
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
-      - label: Compare Plans
+      - label: Get Involved
         url: /pricing
         style: primary
     actions_position: right
