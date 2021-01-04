@@ -44,7 +44,7 @@ sections:
         content: |+
           ---
 
-          ### $39
+          ### £20pp
 
         content_align: left
         actions:
