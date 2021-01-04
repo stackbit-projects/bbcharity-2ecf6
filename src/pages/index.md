@@ -196,12 +196,13 @@ sections:
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >+
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus."
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **from some guy who thing BBcahrity is awesome**
+
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
