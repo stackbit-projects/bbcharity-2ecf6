@@ -27,7 +27,7 @@ sections:
         image_align: center
       - image: images/writing.png
         image_align: center
-      - image: images/logo-4.svg
+      - image: images/art.png
         image_align: center
       - image: images/logo-5.svg
         image_align: center
