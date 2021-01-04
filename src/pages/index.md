@@ -32,6 +32,7 @@ sections:
       - image: images/computer.png
         image_align: center
         image_position: right
+        content: '### Computer beans'
       - image_align: center
       - image_align: center
       - image_align: center
