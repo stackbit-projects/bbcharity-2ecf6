@@ -221,7 +221,8 @@ sections:
 
           **from some guy who thinks BBcahrity is awesome**
 
-        image: images/gordon-norman.png
+        image: >-
+          images/stock-vector-male-face-silhouette-or-icon-man-avatar-profile-unknown-or-anonymous-person-vector-illustration-1165858396.jpg
         image_position: left
         image_width: twenty-five
     grid_cols: two
