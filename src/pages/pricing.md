@@ -33,7 +33,7 @@ sections:
           ### **£15**
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: 'Purchase '
             url: /features
             style: primary
         actions_align: left
