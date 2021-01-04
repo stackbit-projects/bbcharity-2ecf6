@@ -244,7 +244,7 @@ sections:
         image: images/unknown.jpg
         image_position: top
       - title: ''
-        subtitle: Software Engineer
+        subtitle: Operations Manager
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
