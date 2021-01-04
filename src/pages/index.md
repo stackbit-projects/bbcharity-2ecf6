@@ -297,7 +297,7 @@ sections:
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     actions:
-      - label: Button
+      - label: Support Us
         url: /pricing
         style: primary
     actions_position: bottom
