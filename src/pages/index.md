@@ -34,6 +34,7 @@ sections:
         image_position: right
         content: ''
         content_align: center
+        title: Computer Beans
       - image_align: center
       - image_align: center
       - image_align: center
