@@ -246,7 +246,7 @@ sections:
       - title: Ari
         subtitle: Operations Manager
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: images/pleasant-lavender.jpg
         image_position: top
       - title: Hugh Saturation
         subtitle: Developer Advocate
