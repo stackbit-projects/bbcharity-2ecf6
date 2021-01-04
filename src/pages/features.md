@@ -139,7 +139,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
 
-        image: images/gordon-norman.png
+        image: images/panoramic-turtle.jpg
         image_position: left
         image_width: twenty-five
     grid_cols: two
