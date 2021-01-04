@@ -31,6 +31,7 @@ sections:
         image_align: center
       - image: images/computer.png
         image_align: center
+        image_position: right
       - image_align: center
       - image_align: center
       - image_align: center
