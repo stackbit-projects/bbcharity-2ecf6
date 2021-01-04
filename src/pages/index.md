@@ -27,6 +27,7 @@ sections:
         title_align: center
       - image: images/food.png
         image_align: center
+        title: Foody Beans
       - image: images/writing.png
         image_align: center
       - image: images/art.png
