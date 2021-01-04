@@ -83,7 +83,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-2.png
+        image: images/istockphoto-1047532496-1024x1024.jpg
         media_position: left
         media_width: fifty
       - title: Alternative Education
