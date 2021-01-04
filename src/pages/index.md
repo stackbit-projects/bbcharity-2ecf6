@@ -211,7 +211,7 @@ sections:
 
 
           ** from another student**
-        image: images/eleanor-carr.png
+        image: images/spectacular-paprika.jpg
         image_position: left
         image_width: twenty-five
       - content: >+
