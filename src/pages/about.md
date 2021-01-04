@@ -92,7 +92,7 @@ sections:
     background_color: none
   - type: cta_section
     title: We are Hiring!
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: Help make a diffrence
     actions:
       - label: Join Us
         url: /pricing
