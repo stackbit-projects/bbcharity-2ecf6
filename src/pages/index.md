@@ -243,7 +243,7 @@ sections:
         title_align: center
         image: images/unknown.jpg
         image_position: top
-      - title: ''
+      - title: Ari
         subtitle: Operations Manager
         title_align: center
         image: images/dianne-ameter.jpg
