@@ -36,6 +36,7 @@ sections:
       - image: images/art.png
         image_align: center
         title: Arty Beans
+        content_align: center
       - image: images/computer.png
         image_align: center
         image_position: right
