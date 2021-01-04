@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: 'Leaders in Alternative Educaiotn & Instensive Support Services '
     subtitle: ''
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: ''
     actions:
       - label: Learn More
         url: /features
