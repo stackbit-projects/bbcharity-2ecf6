@@ -22,7 +22,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        video_embed_html: ''
+        video_embed_html: 'https://www.youtube.com/watch?v=3F-w75oFX5g'
         media_position: left
         media_width: fifty
       - title: Section Title Three
