@@ -15,7 +15,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
   - type: grid_section
     title: Life Long Learning
     subtitle: ''
