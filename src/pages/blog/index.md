@@ -23,7 +23,7 @@ sections:
   - type: form_section
     title: Subscribe to Our News Letter
     title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content: Make sure you don't miss anything.
     content_align: center
     form_position: bottom
     form_layout: inline
