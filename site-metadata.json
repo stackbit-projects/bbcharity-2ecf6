@@ -44,7 +44,7 @@
                 "style": "primary"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Staff Login",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
