@@ -29,7 +29,7 @@ sections:
         image_align: center
       - image: images/art.png
         image_align: center
-      - image: images/logo-5.svg
+      - image: images/computer.png
         image_align: center
       - image: images/logo-6.svg
         image_align: center
