@@ -248,7 +248,7 @@ sections:
         title_align: center
         image: images/pleasant-lavender.jpg
         image_position: top
-      - title: Hugh Saturation
+      - title: Chris
         subtitle: Developer Advocate
         title_align: center
         image: images/hugh-saturation.jpg
