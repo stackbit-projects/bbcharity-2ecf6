@@ -195,7 +195,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          ** from another student**
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
