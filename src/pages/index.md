@@ -251,7 +251,7 @@ sections:
       - title: Chris
         subtitle: Admin
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: images/spectacular-lettuce.jpg
         image_position: top
       - title: Hilary Ouse
         subtitle: ''
