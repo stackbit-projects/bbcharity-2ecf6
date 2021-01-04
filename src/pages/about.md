@@ -94,7 +94,7 @@ sections:
     title: Help Make a Difference
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
-      - label: Support Us
+      - label: Join Us
         url: /pricing
         style: primary
     align: center
