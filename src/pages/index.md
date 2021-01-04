@@ -191,7 +191,7 @@ sections:
 
 
           **Student success story aka BBcahrity is awesome**
-        image: images/hanson-deck.png
+        image: images/panoramic-turtle.jpg
         image_position: left
         image_width: twenty-five
       - content: >+
