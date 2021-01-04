@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/external-content.duckduckgo.com.jpg
     media_position: left
     media_width: fifty
     align: left
