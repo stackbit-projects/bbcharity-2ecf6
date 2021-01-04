@@ -91,7 +91,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Help Make a Difference
+    title: We are Hiring!
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Join Us
