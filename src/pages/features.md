@@ -45,7 +45,7 @@ sections:
           allow="accelerometer; autoplay; clipboard-write; encrypted-media;
           gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
-    title: Cards Section
+    title: More...
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
