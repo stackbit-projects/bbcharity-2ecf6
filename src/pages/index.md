@@ -35,6 +35,7 @@ sections:
         content: ''
         content_align: center
         title: Computer Beans
+        title_align: center
       - image_align: center
       - image_align: center
       - image_align: center
