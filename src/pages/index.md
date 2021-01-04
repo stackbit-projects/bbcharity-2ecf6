@@ -85,7 +85,7 @@ sections:
         image: images/classic/feature-2.png
         media_position: left
         media_width: fifty
-      - title: BB Charity Content
+      - title: Alternative Education
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
