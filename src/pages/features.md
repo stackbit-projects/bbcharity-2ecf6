@@ -22,11 +22,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/watch?v=3F-w75oFX5g" frameborder="0"
-          allow="accelerometer; autoplay; encrypted-media; gyroscope;
-          picture-in-picture" allowfullscreen></iframe>
+        video_embed_html: ''
         media_position: left
         media_width: fifty
       - title: Section Title Three
