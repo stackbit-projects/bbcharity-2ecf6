@@ -39,7 +39,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Intensive Support Services
-    subtitle: Features Section Example
+    subtitle: ''
     features:
       - title: BB Charity Content
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
