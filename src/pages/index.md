@@ -68,7 +68,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
+        image: images/istockphoto-1214106771-1024x1024.jpg
         media_position: right
         media_width: fifty
       - title: Functional & G.C.S.E
