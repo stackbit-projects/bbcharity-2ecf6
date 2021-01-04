@@ -181,8 +181,11 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >+
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus."
+
+
+          **A dad who thinks BBcahrity is awesome**
 
         image: images/miles-tone.png
         image_position: left
