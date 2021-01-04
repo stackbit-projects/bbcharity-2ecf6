@@ -45,7 +45,7 @@ sections:
           allow="accelerometer; autoplay; clipboard-write; encrypted-media;
           gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
-    title: More...
+    title: Learn More...
     subtitle: ''
     grid_items:
       - title: Section Item 1
