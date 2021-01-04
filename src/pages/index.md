@@ -238,7 +238,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Gustav Purpleson
+      - title: Sarah Gentles
         subtitle: Co-Founder & CEO
         title_align: center
         image: images/unknown.jpg
