@@ -249,7 +249,7 @@ sections:
         image: images/pleasant-lavender.jpg
         image_position: top
       - title: Christine Morgan
-        subtitle: Admin
+        subtitle: Chief Administrative Officer
         title_align: center
         image: images/spectacular-lettuce.jpg
         image_position: top
