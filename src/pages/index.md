@@ -249,7 +249,7 @@ sections:
         image: images/pleasant-lavender.jpg
         image_position: top
       - title: Chris
-        subtitle: Developer Advocate
+        subtitle: Admin
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
