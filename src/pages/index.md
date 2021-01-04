@@ -33,6 +33,7 @@ sections:
         image_align: center
         image_position: right
         content: '### Computer beans'
+        content_align: center
       - image_align: center
       - image_align: center
       - image_align: center
