@@ -256,7 +256,7 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
+    subtitle: Keep up to date with the latest news from Baked Bean Charity
     actions:
       - label: View All
         url: /blog
