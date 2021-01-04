@@ -181,7 +181,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews
+    title: Testimonials
     subtitle: ''
     grid_items:
       - content: >-
