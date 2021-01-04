@@ -244,7 +244,7 @@ sections:
         image: images/unknown.jpg
         image_position: top
       - title: Ari Emedeme
-        subtitle: Operations Manager
+        subtitle: Behavioural Analyst & Operations Manager
         title_align: center
         image: images/pleasant-lavender.jpg
         image_position: top
