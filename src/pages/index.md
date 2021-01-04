@@ -32,6 +32,7 @@ sections:
       - image: images/writing.png
         image_align: center
         title: Writing Beans
+        title_align: center
       - image: images/art.png
         image_align: center
       - image: images/computer.png
