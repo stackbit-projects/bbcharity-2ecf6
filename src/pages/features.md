@@ -24,7 +24,7 @@ sections:
           fringilla, fringilla.
         video_embed_html: >-
           <iframe height="350"
-          width="300"https://www.youtube.com/watch?v=3F-w75oFX5g</iframe>
+          width="600"https://www.youtube.com/watch?v=3F-w75oFX5g</iframe>
         media_position: left
         media_width: fifty
       - title: Section Title Three
