@@ -1,12 +1,12 @@
 {
-    "description": "A \"do it yourself\" theme for Stackbit",
+    "description": "",
     "layout": "boxed",
     "style": "classic",
     "palette": "green",
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "DIY",
+        "title": "Home",
         "logo": "images/index.jpg",
         "has_primary_nav": true,
         "primary_nav_links": [
@@ -16,18 +16,18 @@
                 "style": "link"
             },
             {
-                "label": "Events & Donations",
+                "label": "Get Involved",
                 "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about",
                 "style": "link"
             },
             {
                 "label": "Blog",
                 "url": "/blog",
+                "style": "link"
+            },
+            {
+                "label": "About Us",
+                "url": "/about",
                 "style": "link"
             }
         ],
@@ -39,13 +39,23 @@
                 "style": "link"
             },
             {
-                "label": "Refereal",
+                "label": "Referral",
                 "url": "/pricing",
                 "style": "primary"
+            },
+            {
+                "label": "Staff Login",
+                "url": "Example,com",
+                "style": "link",
+                "has_icon": true,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": true,
+                "type": "action"
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_content": "Baked Bean Charity is something very special this season. Click to **[Learn More](/pricing/)**",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
@@ -76,12 +86,12 @@
                 "style": "link"
             },
             {
-                "label": "Tutorials",
+                "label": "Resources",
                 "url": "/blog/category/tutorials",
                 "style": "link"
             }
         ],
-        "has_tertiary_nav": true,
+        "has_tertiary_nav": false,
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
@@ -107,15 +117,6 @@
                 "new_window": true
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "github",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "link",
@@ -132,18 +133,10 @@
                 "icon": "youtube",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
-                "icon_position": "center",
-                "new_window": true
             }
         ],
-        "content": ""
+        "content": "",
+        "links": []
     },
-    "title": "Stackbit DIY Theme"
+    "title": "Support Us"
 }

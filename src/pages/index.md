@@ -9,28 +9,41 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/external-content.duckduckgo.com.jpg
     media_position: left
     media_width: fifty
     align: left
     padding_top: large
     padding_bottom: large
     background_color: primary
+    background_image: images/istockphoto-1199706305-1024x1024.jpg
   - type: grid_section
     title: Life Long Learning
-    subtitle: Grid Section Example
+    subtitle: ''
     align: center
     grid_items:
       - image: images/life.png
         image_align: center
+        title: Healthy Beans
+        title_align: center
       - image: images/food.png
         image_align: center
+        title: Foody Beans
+        title_align: center
       - image: images/writing.png
         image_align: center
+        title: Writing Beans
+        title_align: center
       - image: images/art.png
         image_align: center
+        title: Arty Beans
+        content_align: center
       - image: images/computer.png
         image_align: center
+        image_position: top
+        content: ''
+        content_align: center
+        title: Computer Beans
+        title_align: center
       - image_align: center
       - image_align: center
       - image_align: center
@@ -41,7 +54,7 @@ sections:
     title: Intensive Support Services
     subtitle: ''
     features:
-      - title: BB Charity Content
+      - title: Remote Learning
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
@@ -54,10 +67,10 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
+        image: images/istockphoto-1214106771-1024x1024.jpg
         media_position: right
         media_width: fifty
-      - title: BB Charity Content!!
+      - title: Functional & G.C.S.E
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
@@ -69,10 +82,10 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-2.png
+        image: images/istockphoto-1047532496-1024x1024.jpg
         media_position: left
         media_width: fifty
-      - title: BB Charity Content
+      - title: Alternative Education
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
@@ -85,7 +98,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-3.png
+        image: images/alternative.jpg
         media_position: right
         media_width: fifty
     feature_padding_vert: large
@@ -93,20 +106,18 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
+      - title: “ a great quote can go here”
+        subtitle: A quote from Jade or a student?
+        image: images/parallel-spruce.jpg
         media_position: right
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Cards Grid Section
-    subtitle: Grid Section Example
+    title: More information about BB Charity
+    subtitle: ''
     grid_items:
-      - title: Section Item 1
+      - title: Fill with something
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
@@ -121,11 +132,11 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-1.svg
+        image: images/classic/icon-2.svg
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 2
+      - title: Fill me please!!!
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
@@ -144,7 +155,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
+      - title: Fill... feel like I'm re
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
@@ -159,7 +170,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-3.svg
+        image: images/classic/icon-2.svg
         image_position: top
         image_align: left
         image_has_padding: true
@@ -170,23 +181,27 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews
+    title: Testimonials
     subtitle: ''
     grid_items:
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus."
 
 
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
+          **Student success story aka BBcahrity is awesome**
+        image: images/panoramic-turtle.jpg
         image_position: left
         image_width: twenty-five
       - content: >+
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus."
 
-        image: images/miles-tone.png
+
+          **A dad who thinks BBcahrity is awesome**
+
+        image: >-
+          images/stock-vector-male-face-silhouette-or-icon-man-avatar-profile-unknown-or-anonymous-person-vector-illustration-1165858396.jpg
         image_position: left
         image_width: twenty-five
       - content: >-
@@ -194,17 +209,19 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
+          ** from another student**
+        image: images/spectacular-paprika.jpg
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >+
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus."
 
 
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
+          **from some guy who thinks BBcahrity is awesome**
+
+        image: >-
+          images/stock-vector-male-face-silhouette-or-icon-man-avatar-profile-unknown-or-anonymous-person-vector-illustration-1165858396.jpg
         image_position: left
         image_width: twenty-five
     grid_cols: two
@@ -213,7 +230,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: This is Call To Action
+    title: Support Services
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
@@ -229,7 +246,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Team
+    title: Meet The Team
     subtitle: ''
     actions:
       - label: Join the team
@@ -256,7 +273,7 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
+    subtitle: Keep up to date with the latest news from Baked Bean Charity
     actions:
       - label: View All
         url: /blog
@@ -276,13 +293,13 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Get Involved
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     actions:
-      - label: Button
+      - label: Support Us
         url: /pricing
         style: primary
     actions_position: bottom
