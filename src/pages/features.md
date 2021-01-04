@@ -39,6 +39,11 @@ sections:
         image: images/about-1.jpg
         media_position: right
         media_width: fifty
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/8TYULurkrCk" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
