@@ -38,7 +38,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Features Section
+    title: Intensive Support Services
     subtitle: Features Section Example
     features:
       - title: BB Charity Content
