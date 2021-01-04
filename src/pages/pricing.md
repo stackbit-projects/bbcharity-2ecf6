@@ -41,11 +41,11 @@ sections:
       - title: Sponsored Event
         subtitle: ''
         title_align: left
-        content: |
+        content: |+
           ---
 
           ### $39
-          ##### Ticket Sale
+
         content_align: left
         actions:
           - label: Start with Business
