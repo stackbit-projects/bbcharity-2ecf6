@@ -32,8 +32,7 @@ sections:
       - image: images/computer.png
         image_align: center
       - image_align: center
-      - image: images/logo-7.svg
-        image_align: center
+      - image_align: center
       - image: images/logo-8.svg
         image_align: center
     grid_cols: four
