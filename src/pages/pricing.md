@@ -25,7 +25,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Art Work & T-Shirt
-        subtitle: Optional subtitle
+        subtitle: ''
         title_align: left
         content: |-
           ---
