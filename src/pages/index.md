@@ -248,7 +248,7 @@ sections:
         title_align: center
         image: images/pleasant-lavender.jpg
         image_position: top
-      - title: Chris
+      - title: Christine Morgan
         subtitle: Admin
         title_align: center
         image: images/spectacular-lettuce.jpg
