@@ -16,6 +16,11 @@
                 "style": "link"
             },
             {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
                 "label": "Events & Donations",
                 "url": "/pricing",
                 "style": "link"
@@ -23,11 +28,6 @@
             {
                 "label": "About Us",
                 "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
                 "style": "link"
             }
         ],
