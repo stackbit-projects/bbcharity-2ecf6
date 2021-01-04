@@ -36,7 +36,7 @@ sections:
         content: |-
           ---
 
-          **£15**
+          ### **£15**
         content_align: left
         actions:
           - label: Start with Premium
