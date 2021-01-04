@@ -24,8 +24,8 @@ sections:
           fringilla, fringilla.
         video_embed_html: |2-
 
-            <object data="http://www.youtube.com/embed/W7qWa52k-nE"
-             width="560" height="315"></object>
+            <iframe src="http://www.youtube.com/embed/W7qWa52k-nE"
+             width="560" height="315"></iframe>
            
         media_position: left
         media_width: fifty
