@@ -19,7 +19,7 @@ sections:
 
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: 'Purchase '
             url: /features
             style: primary
         actions_align: left
