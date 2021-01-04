@@ -232,7 +232,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Team Section
-    subtitle: Grid Section Example
+    subtitle: ''
     actions:
       - label: Join the team
         url: /style-guide
