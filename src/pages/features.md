@@ -15,6 +15,11 @@ sections:
           fringilla, fringilla.
         media_position: right
         media_width: fifty
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/HHxbQW8lSpE" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
       - title: Autism
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
