@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Promoting Educaiotn & Instensive support
+    title: Promoting Educaiotn & Instensive Support
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
