@@ -3,7 +3,7 @@ title: Services
 sections:
   - type: hero_section
     title: Explore  Services
-    subtitle: Features Page Demo
+    subtitle: ''
     background_color: primary
   - type: features_section
     features:
