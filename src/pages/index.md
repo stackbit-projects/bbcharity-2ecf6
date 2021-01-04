@@ -204,7 +204,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus."
 
 
-          **from some guy who thing BBcahrity is awesome**
+          **from some guy who thinks BBcahrity is awesome**
 
         image: images/gordon-norman.png
         image_position: left
