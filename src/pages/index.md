@@ -254,7 +254,7 @@ sections:
         image: images/hugh-saturation.jpg
         image_position: top
       - title: Hilary Ouse
-        subtitle: Operations Manager
+        subtitle: ''
         title_align: center
         image: images/hilary-ouse.jpg
         image_position: top
