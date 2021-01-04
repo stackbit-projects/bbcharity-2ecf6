@@ -54,7 +54,7 @@ sections:
     title: Intensive Support Services
     subtitle: ''
     features:
-      - title: GCSE
+      - title: Foundation Studies
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
