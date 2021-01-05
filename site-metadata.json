@@ -45,7 +45,7 @@
             },
             {
                 "label": "Staff Login",
-                "url": "Example,com",
+                "url": "Example.com",
                 "style": "link",
                 "has_icon": true,
                 "icon": "arrow-left",
